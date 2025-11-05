@@ -9,7 +9,7 @@ Franco Miguel Valencia – 1009486771
 Jisung Shin – 1004192170
 
 ## TL;DR
-Google Maps and Google Reviews are accessible and intuitive tools for restaurant discovery, offering extensive information like reviews, photos, and business details. However, they lack personalization and require **frequent switching** between apps and websites to compare options and coordinate with other people. This fragmentation matters because it increases decision fatigue. Our product should centralize discovery and decision-making to reduce context switching and improve group coordination.
+Google Maps and Google Reviews are accessible and intuitive tools for restaurant discovery, offering extensive information like reviews, photos, and business details. However, they **lack personalization** and thus require **frequent switching** between apps and websites to compare options and share information. This fragmentation matters because it increases decision fatigue. Our product should centralize discovery and decision-making to reduce context switching and improve group coordination.
 <br>
 
 ## Our User Goal
