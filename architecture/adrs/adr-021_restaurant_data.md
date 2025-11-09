@@ -1,7 +1,7 @@
 # ADR-021: Restaurant Owner Verification and Data Ownership
 
 **Date:** 2025-11-08  
-**Status:** Proposed  
+**Status:** Accepted  
 **Deciders:** Core Engineering Team (Product, Backend)  
 **Context:** Palate App (Restaurant Discovery Platform)
 
