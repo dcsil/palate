@@ -1,4 +1,4 @@
-## ADR 024: Basic Rank Agent for Restaurant Recommendations
+# ADR 024: Basic Rank Agent for Restaurant Recommendations
 
 ## Context
 As our recommendation system matured beyond static retrieval and keyword search, we needed a mechanism to prioritize and personalize restaurant results. The previous pipeline could retrieve relevant restaurants, but we lacked an interpretive layer to evaluate qualitative restaurant features (e.g., cuisine type, price level, popularity, and ambience tags) against a user’s taste vector profile.
